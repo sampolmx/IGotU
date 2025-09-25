@@ -1,4 +1,4 @@
-# 🛡️ I, Got You Many
+# 🛡️ IGotYou
 
 **I, Got You Many** es una herramienta de seguridad diseñada para **monitorear, detectar y reportar procesos sospechosos y archivos maliciosos** en tu sistema.  
 Integra verificaciones automáticas con **VirusTotal**, **Norton** y **McAfee**, ofreciendo múltiples capas de análisis para mejorar la protección frente a amenazas.
